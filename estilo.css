@@ -1,0 +1,37 @@
+﻿.barra {
+	height: 40px;
+	background: hsla(360, 100%, 50%, 0.2);
+	margin: 1% 0%;
+	text-align: center;
+}
+.barra img {
+	height: 40px;
+}
+.barra nav {
+	display: inline;
+	margin: 0% 2%;
+}
+.medepositas {
+}
+@media (min-width: 400px max-width: 600px) {
+.barra {
+	height: 25px;
+}
+.barra img {
+	height: 25px;
+}
+.logo {
+	display: none;
+}
+}
+@media (max-width: 400px) {
+.barra {
+	height: 20px;
+}
+.barra img {
+	height: 20px;
+}
+.logo {
+	display: none;
+}
+}
