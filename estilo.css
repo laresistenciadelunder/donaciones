@@ -15,6 +15,11 @@ body {
 	border-radius: 5px;
 	font-size: 16px;
 }
+.medepositas p {
+	font-size: 16px;
+	font-weight: bold;
+	color: #ffffff
+}
 .barra {
 	height: 40px;
 	background: hsla(360, 100%, 50%, 0.2);
