@@ -1,4 +1,21 @@
-﻿.barra {
+body {
+	font-family: Lucida Console;
+}
+.mearrepenti {
+	background: hsla(30, 100%, 50%, 0.2);
+}
+.donaciones {
+	background: url("index.jpg") no-repeat center;
+	background-size: cover;
+}
+.medepositas {
+	background: hsla(360, 100%, 50%, 0.2);
+	margin: 1%;
+	padding: 1%;
+	border-radius: 5px;
+	font-size: 16px;
+}
+.barra {
 	height: 40px;
 	background: hsla(360, 100%, 50%, 0.2);
 	margin: 1% 0%;
