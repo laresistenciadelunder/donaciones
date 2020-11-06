@@ -10,7 +10,7 @@ body {
 	margin: 1% auto;
 }
 .donaciones {
-	background: url("fondos/fondo1.jpg") no-repeat center;
+	background: url("fondos/fondo1.jpeg") no-repeat center;
 	background-size: cover;
 }
 .medepositas {
@@ -49,7 +49,7 @@ body {
 	display: none;
 }
 .donaciones {
-	background: url("fondos/fondo4.jpg") no-repeat center;
+	background: url("fondos/fondo4.jpeg") no-repeat center;
 	background-size: cover;
 }
 }
@@ -64,7 +64,7 @@ body {
 	display: none;
 }
 .donaciones {
-	background: url("fondos/fondo4.jpg") no-repeat center;
+	background: url("fondos/fondo4.jpeg") no-repeat center;
 	background-size: cover;
 }
 }
