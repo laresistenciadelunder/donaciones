@@ -6,7 +6,7 @@ body {
 }
 .nano {
 	width: 95%;
-	align: center;
+	margin: auto;
 }
 .donaciones {
 	background: url("index.jpg") no-repeat center;
