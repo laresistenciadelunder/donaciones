@@ -7,7 +7,7 @@ body {
 .nano {
 	display: block;
 	width: 95%;
-	margin: auto;
+	margin: 1% auto;
 }
 .donaciones {
 	background: url("index.jpg") no-repeat center;
