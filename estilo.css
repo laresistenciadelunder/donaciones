@@ -4,6 +4,9 @@ body {
 .mearrepenti {
 	background: hsla(30, 100%, 50%, 0.2);
 }
+.mearrepenti img {
+	margin: 1%;
+}
 .donaciones {
 	background: url("index.jpg") no-repeat center;
 	background-size: cover;
