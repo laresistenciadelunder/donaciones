@@ -5,6 +5,7 @@ body {
 	background: hsla(30, 100%, 50%, 0.2);
 }
 .nano {
+	display: block;
 	width: 95%;
 	margin: auto;
 }
