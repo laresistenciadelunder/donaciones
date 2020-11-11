@@ -6,12 +6,15 @@ body {
 }
 .nano {
 	display: block;
-	width: 75%;
+	width: 95%;
 	margin: 1% auto;
 }
 .donaciones {
 	background: url("fondos/fondo1.jpeg") no-repeat center;
 	background-size: cover;
+}
+.coso {
+	height: 30%;
 }
 .medepositas {
 	background: hsla(360, 100%, 50%, 0.2);
@@ -38,39 +41,33 @@ body {
 	display: inline;
 	margin: 0% 2%;
 }
-@media (min-width: 400px max-width: 800px) {
-	.barra {
-		height: 25px;
-	}
-	.barra img {
-		height: 25px;
-	}
-	.logo {
-		display: none;
-	}
-	.donaciones {
-		background: url("fondos/fondo4.jpeg") no-repeat center;
-		background-size: cover;
-	}
-	.medepositas {
-		height: 150px;
-	}
+@media (min-width: 400px max-width: 600px) {
+.barra {
+	height: 25px;
+}
+.barra img {
+	height: 25px;
+}
+.logo {
+	display: none;
+}
+.donaciones {
+	background: url("fondos/fondo4.jpeg") no-repeat center;
+	background-size: cover;
+}
 }
 @media (max-width: 400px) {
-	.barra {
-		height: 20px;
-	}
-	.barra img {
-		height: 20px;
-	}
-	.logo {
-		display: none;
-	}
-	.donaciones {
-		background: url("fondos/fondo4.jpeg") no-repeat center;
-		background-size: cover;
-	}
-	.medepositas {
-		height: 150px;
-	}
+.barra {
+	height: 20px;
+}
+.barra img {
+	height: 20px;
+}
+.logo {
+	display: none;
+}
+.donaciones {
+	background: url("fondos/fondo4.jpeg") no-repeat center;
+	background-size: cover;
+}
 }
