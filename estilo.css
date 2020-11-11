@@ -30,6 +30,9 @@ body {
 	background: hsla(360, 100%, 50%, 0.2);
 	margin: 1% 0%;
 	text-align: center;
+	position: absolute;
+	bottom: 0;
+	width: 100%;
 }
 .barra img {
 	height: 40px;
