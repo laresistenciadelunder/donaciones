@@ -13,9 +13,6 @@ body {
 	background: url("fondos/fondo1.jpeg") no-repeat center;
 	background-size: cover;
 }
-.coso {
-	height: 15em;
-}
 .medepositas {
 	background: hsla(360, 100%, 50%, 0.2);
 	margin: 1%;
