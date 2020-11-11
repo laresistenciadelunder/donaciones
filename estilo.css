@@ -27,7 +27,7 @@ body {
 	color: #ffffff
 }
 .botoncito {
-	margin: auto auto 0% auto;
+	position: bottom;
 }
 .barra {
 	height: 40px;
