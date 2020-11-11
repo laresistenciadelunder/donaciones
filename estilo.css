@@ -29,8 +29,8 @@ body {
 .botoncito {
 	display: block;
 	margin: auto;
-	vertical-align: sub;
 	align: center;
+	position: bottom;
 }
 .barra {
 	height: 40px;
