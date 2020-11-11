@@ -25,6 +25,9 @@ body {
 	font-weight: bold;
 	color: #ffffff
 }
+.medepositas script, form, a {
+	vertical-align: sub;
+}
 .barra {
 	height: 40px;
 	background: hsla(360, 100%, 50%, 0.2);
