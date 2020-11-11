@@ -19,7 +19,7 @@ body {
 	padding: 1%;
 	border-radius: 5px;
 	font-size: 16px;
-	height: 100%;
+	height: 150px;
 }
 .medepositas p {
 	font-size: 16px;
@@ -27,7 +27,7 @@ body {
 	color: #ffffff
 }
 .botoncito {
-	vertical-align: sub;
+	margin: auto auto 0% auto;
 }
 .barra {
 	height: 40px;
@@ -56,9 +56,6 @@ body {
 	background: url("fondos/fondo4.jpeg") no-repeat center;
 	background-size: cover;
 }
-.medepositas {
-	height: 100%;
-}
 }
 @media (max-width: 400px) {
 .barra {
@@ -73,8 +70,5 @@ body {
 .donaciones {
 	background: url("fondos/fondo4.jpeg") no-repeat center;
 	background-size: cover;
-}
-.medepositas {
-	height: 100%;
 }
 }
