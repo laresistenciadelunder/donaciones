@@ -22,7 +22,6 @@ body {
 	padding: 1%;
 	border-radius: 5px;
 	font-size: 16px;
-	padding-top: 100%;
 }
 .medepositas p {
 	font-size: 16px;
@@ -47,7 +46,7 @@ body {
 	height: 25px;
 }
 .barra img {
-	height: 25px;
+	height: 23px;
 }
 .logo {
 	display: none;
@@ -62,7 +61,7 @@ body {
 	height: 20px;
 }
 .barra img {
-	height: 20px;
+	height: 18px;
 }
 .logo {
 	display: none;
