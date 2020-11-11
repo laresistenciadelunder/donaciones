@@ -27,7 +27,7 @@ body {
 	color: #ffffff
 }
 .botoncito {
-	diaplay: block;
+	display: block;
 	position: bottom;
 	width: 80%;
 }
