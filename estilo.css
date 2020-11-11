@@ -29,6 +29,7 @@ body {
 .botoncito {
 	diaplay: block;
 	position: bottom;
+	width: 80%;
 }
 .barra {
 	height: 40px;
