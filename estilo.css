@@ -19,7 +19,7 @@ body {
 	padding: 1%;
 	border-radius: 5px;
 	font-size: 16px;
-	height: 150px;
+	height: 100%;
 }
 .medepositas p {
 	font-size: 16px;
@@ -57,7 +57,7 @@ body {
 	background-size: cover;
 }
 .medepositas {
-	height: 100px;
+	height: 100%;
 }
 }
 @media (max-width: 400px) {
@@ -75,6 +75,6 @@ body {
 	background-size: cover;
 }
 .medepositas {
-	height: 80px;
+	height: 100%;
 }
 }
